@@ -1,6 +1,7 @@
 # 💥 Dynamic Mesh Destruction in UE5
 
-![Destruction Showcase](roturas_demo.gif)
+[![Destruction Showcase](https://img.youtube.com/vi/8E3b-e5DZGU/maxresdefault.jpg)](https://youtu.be/8E3b-e5DZGU)
+
 
 ## 📝 Overview
 This project is a technical exploration of real-time physics and dynamic mesh destruction within Unreal Engine 5. Built as a Tech Art and Physics showcase, it focuses on implementing responsive fracture mechanics using the Chaos Physics engine while maintaining optimal performance during gameplay.
